@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>br.com.ifpb</groupId>
-    <artifactId>ManagedBeansEscopos</artifactId>
+    <artifactId>CursoJSF-ManagedBeansEscopos</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
-    <name>ManagedBeansEscopos</name>
+    <name>CursoJSF-ManagedBeansEscopos</name>
 
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
